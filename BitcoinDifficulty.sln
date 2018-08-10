@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BitcoinDifficulty", "BitcoinDifficulty\BitcoinDifficulty.pyproj", "{00DF6A80-2F64-4E89-89DB-5F2453BA9390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00DF6A80-2F64-4E89-89DB-5F2453BA9390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DF6A80-2F64-4E89-89DB-5F2453BA9390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5F35F94-2883-4DD3-AD14-0C6623265F30}
+	EndGlobalSection
+EndGlobal
